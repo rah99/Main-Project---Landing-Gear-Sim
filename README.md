@@ -8,7 +8,7 @@ The concept behind this application originates from the production of an interac
 
 ## Project Description
 
-A virtual reality training program of Airbus’s A380 main landing gear, where the user can navigate around and interact with the landing gear performing maintenance tasks, as in changing parts, and assembly/disassembly within a simulated workshop environment. The program will be developed using Unity game engine, C#, and Unity’s XR Management Toolkit.
+A virtual reality training program (using a simile model) of Airbus’s A380 main landing gear, where the user can navigate around and interact with the landing gear performing maintenance tasks, as in changing parts, and assembly/disassembly within a simulated workshop environment. The program will be developed using Unity game engine, C#, and Unity’s XR Management Toolkit.
  
 ## Video
 
