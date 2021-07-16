@@ -4,7 +4,7 @@
  
 ## Does VR training have a practical application in aeronautical engineering?
 
-The concept behind this application originates from the production of an interactive VR landing gear program for Multimedia Studies in the 2nd year of this course. This generated interest and enquiries into adapting the program into a training application. Safety is paramount for the aerospace industry, as such, formal training requires precision and accuracy, raising the question “Does VR training have a practical application in aeronautical engineering?”.
+The concept behind this application originates from the production of an interactive VR landing gear program for Multimedia Studies in the 2nd year of a BSc course. This generated interest and enquiries into adapting the program into a training application. Safety is paramount for the aerospace industry, as such, formal training requires precision and accuracy, raising the question “Does VR training have a practical application in aeronautical engineering?”.
  
 ## Video
 
