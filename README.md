@@ -6,7 +6,7 @@
 
 The concept behind this application originates from the production of an interactive VR landing gear program for Multimedia Studies in the 2nd year of a BSc course. This generated interest and enquiries into adapting the program into a training application. Safety is paramount for the aerospace industry, as such, formal training requires precision and accuracy, raising the question “Does VR training have a practical application in aeronautical engineering?”.
 
-Robert Stone’s work (University of Birmingham), Evolution of Aerospace Simulation: From Immersive Virtual Reality to Serious Games, demonstrates the recognized need and demand from the Aero industry for VR simulations and specifically has a section on landing gear, where a model was developed by Virtual Presence in conjunction with British Aerospace (BAe), which formed part of a larger contribution to the European Initiative ENHANCE (ENHanced AeroNautical Concurrent Engineering). The project is somewhat dated (1999), both in design and usability, thus, not employed as a source for the literary research but interesting and noteworthy nonetheless based on the larger impact a project like this could have on the European Aeronautical Engineering society in general.
+Robert Stone’s work (University of Birmingham), Evolution of Aerospace Simulation: From Immersive Virtual Reality to Serious Games, demonstrates the recognized need and demand from the Aero industry for VR simulations and specifically has a section on landing gear, where a model was developed by Virtual Presence in conjunction with British Aerospace (BAe), which formed part of a larger contribution to the European Initiative ENHANCE (ENHanced AeroNautical Concurrent Engineering).
 
 ## Project Description
 
